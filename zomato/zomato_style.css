@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+}
+.navbar{
+    background-color:rgb(217, 55, 55);
+    display: flex;
+    height: 107px;
+    width: 100%;
+    justify-content: space-around;
+}
+img{
+    height:107px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    gap:373px;
+    font-family: 'Baloo Bhai';
+    font-weight: bold;
+    text-decoration: none;
+    padding-top: 45px;
+    
+}
+#left{
+   background-color:rgb(217, 55, 55);
+   height: 107px;
+   width: 100%;
+   list-style: none;
+  }
+  /* .right{
+  padding: 14px;
+  margin: 5px;
+  font-size: 28px;
+  justify-content: space-around;
+  } */
+  a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    font-family: 'Baloo Bhai';
+    margin: -133px;
+    padding: -10px;
+    padding-bottom:50px;
+    font-size: 17px;
+  }
+  
+  a:hover{
+    color:rgb(59, 56, 56);
+  }
+  #pic{
+    height: 895px;
+    width: 1263px;
+    padding: 9px;
+    padding-top: 132px;
+  }
+
+  #btn{
+    color:black;
+    font-size:19px;
+    background:red;
+    margin: 29px;
+    margin-left: 209px;
+    margin-top: 45px;
+    padding: 6px;
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: 'Baloo Bhai';
+    font-weight: bold;
+    height: 52px;
+    width: 137px;
+    box-shadow: 0 0 14px 0px rgba(246, 242, 242, 0.4);
+  }
+  #btn2{
+    color:black;
+    font-size:19px;
+    background-color: rgb(142, 19, 142);
+    margin: 29px;
+    margin-left: 209px;
+    margin-top: 56px;
+    padding: 6px;
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: 'Baloo Bhai';
+    font-weight: bold;
+    height: 52px;
+    width: 137px;
+    box-shadow: 0 0 14px 0px rgba(246, 242, 242, 0.4);
+  }
+  b:hover{
+    color:white;
+    font-weight: bold;
+    font-family: 'Baloo Bhai';
+
+  }
+  #para{
+    top: 42%;
+    right:14%;
+    position:absolute;
+  }
+  h1{
+    color:white;
+    font-size: 95px;
+    margin-left: 208px;
+    font-family: 'Baloo Bhai';
+  }
+  h3{
+    color:red;
+    font-size: 55px;
+    margin-left: 209px;
+    font-family: 'Baloo Bhai';
+  }
+  .menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 167px; 
+  } 
+  .menu img {
+    height: 100px;
+  }
+  .feature {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 40px;
+    gap: 20px;
+    padding: 20px 30px;
+    box-shadow: 0 0 20px 0px rgba(253, 251, 251, 0.4);
+    border-radius: 40px;
+  }
+  p1{
+    color:white;
+    font-size: 39px;
+    margin-left: 208px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  p{
+    color:white;
+    font-size: 19px;
+    margin-left: 208px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+ 
